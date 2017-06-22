@@ -9,6 +9,9 @@ WiFind is a framework for data collection of Wi-Fi networks and their signal str
 • Researching open wifi networks and their effectiveness in closing the "digital divide"<br />
 • Working on identifying potential clients and/or collaborators in need of wifi data<br />
 
+Website: http://wifindproject.com/ <br />
+App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
+
 # Collected Wifi Access Points - MAP
 ![Alt text](housing_wifi.png "Optional Title")
 
