@@ -4,6 +4,7 @@
 ![Alt text](housing_wifi.png "Optional Title")
 
 # Wifi Density
+Wifi Density for Selected Housing Projects
 
 |Housing Project  |    unique ssid |
 |----|----|
@@ -13,7 +14,7 @@
 |TOMPKINS          |   314|
 
 # Non-open Networks 
-Median Wifi Signal Strength Levels by Housing Projects
+Median Wifi Signal Strength Levels by Selected Housing Projects
 
 |Housing Project  |   level|
 |----|----|
@@ -21,3 +22,13 @@ Median Wifi Signal Strength Levels by Housing Projects
 |ROOSEVELT I      |   -76|
 |SUMNER           |   -76|
 |TOMPKINS         |   -75|
+
+# Open Networks 
+Median Wifi Signal Strength Levels by Selected Housing Projects
+
+|Housing Project  |   level|
+|----|----|
+|303 VERNON AVENUE|    N/A|
+|ROOSEVELT I      |    N/A|
+|SUMNER           |    N/A|
+|TOMPKINS         |    N/A|
