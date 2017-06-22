@@ -1,5 +1,6 @@
 # WiFind2017
 2017 Capstone Project
+Author_: Christian Rosado
 
 ![Alt text](housing_wifi.png "Optional Title")
 
@@ -32,3 +33,14 @@ Median Wifi Signal Strength Levels by Selected Housing Projects
 |ROOSEVELT I      |    N/A|
 |SUMNER           |    N/A|
 |TOMPKINS         |    N/A|
+
+# Median Income in Selected Housing Projects
+Most granular income dataset found was by NYC census tract
+data source: http://maps.nyc.gov/census/
+
+|Housing Project  |   median income|
+|----|----|
+|303 VERNON AVENUE|    $35,339|
+|ROOSEVELT I      |    $26,081|
+|SUMNER           |    $21,897|
+|TOMPKINS         |    $21,554|
