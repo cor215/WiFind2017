@@ -2,6 +2,7 @@
 2017 Capstone Project
 Author_: Christian Rosado
 
+# Collected Wifi Access Points - MAP
 ![Alt text](housing_wifi.png "Optional Title")
 
 # Wifi Density
@@ -36,7 +37,7 @@ Median Wifi Signal Strength Levels by Selected Housing Projects
 
 # Median Income in Selected Housing Projects
 Most granular income dataset found was by NYC census tract
-data source: http://maps.nyc.gov/census/
+\ndata source: http://maps.nyc.gov/census/
 
 |Housing Project  |   median income|
 |----|----|
