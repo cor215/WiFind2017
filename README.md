@@ -2,6 +2,13 @@
 2017 Capstone Project<br />
 Author_: Christian Rosado
 
+Team Member, Capstone Project, Center for Urban Science and Progress, NYU <br />
+WiFind is a framework for data collection of Wi-Fi networks and their signal strengths:<br />
+• Currently collecting wifi data in NYC low-income housing projects <br />
+• Analyzing data collected with other geo-located datasets to detect patterns and assess wifi accessibility<br />
+• Researching open wifi networks and their effectiveness in closing the "digital divide"<br />
+• Working on identifying potential clients and/or collaborators in need of wifi data<br />
+
 # Collected Wifi Access Points - MAP
 ![Alt text](housing_wifi.png "Optional Title")
 
