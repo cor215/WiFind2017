@@ -1,4 +1,4 @@
-# WiFind2017
+# WiFind2017: Analysing Wifi Strength Signals Across NYC 
 2017 Capstone Project<br />
 Author_: Christian Rosado
 
@@ -13,7 +13,7 @@ WiFind is a framework for data collection of Wi-Fi networks and their signal str
 ![Alt text](housing_wifi.png "Optional Title")
 
 # Wifi Density
-Wifi Density for Selected Housing Projects
+Wifi Density for Selected Housing Projects (counts)
 
 |Housing Project  |    unique ssid |
 |----|----|
@@ -23,7 +23,8 @@ Wifi Density for Selected Housing Projects
 |TOMPKINS          |   314|
 
 # Non-open Networks 
-Median Wifi Signal Strength Levels by Selected Housing Projects
+Median Wifi Signal Strength Levels by Selected Housing Projects<br />
+Signal strength recorded in decibel-milliwatts (dBm)
 
 |Housing Project  |   level|
 |----|----|
@@ -34,6 +35,7 @@ Median Wifi Signal Strength Levels by Selected Housing Projects
 
 # Open Networks 
 Median Wifi Signal Strength Levels by Selected Housing Projects<br />
+Signal strength recorded in decibel-milliwatts (dBm)<br />
 No (known) open networks found
 
 
