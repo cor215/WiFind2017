@@ -26,7 +26,9 @@ Median Wifi Signal Strength Levels by Selected Housing Projects
 |TOMPKINS         |   -75|
 
 # Open Networks 
-Median Wifi Signal Strength Levels by Selected Housing Projects
+Median Wifi Signal Strength Levels by Selected Housing Projects<br />
+No (known) open networks found
+
 
 |Housing Project  |   level|
 |----|----|
