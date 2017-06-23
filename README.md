@@ -1,22 +1,22 @@
-# WiFind2017: Analysing Wifi Strength Signals Across NYC 
+# WiFind2017: Analysing Wi-Fi Strength Signals Across NYC 
 2017 Capstone Project<br />
 Author_: Christian Rosado
 
 Team Member, Capstone Project, Center for Urban Science and Progress, NYU <br />
 WiFind is a framework for data collection of Wi-Fi networks and their signal strengths:<br />
-• Currently collecting wifi data in NYC low-income housing projects <br />
-• Analyzing data collected with other geo-located datasets to detect patterns and assess wifi accessibility<br />
-• Researching open wifi networks and their effectiveness in closing the "digital divide"<br />
-• Working on identifying potential clients and/or collaborators in need of wifi data<br />
+• Currently collecting Wi-Fi data in NYC low-income housing projects <br />
+• Analyzing data collected with other geo-located datasets to detect patterns and assess Wi-Fi accessibility<br />
+• Researching open Wi-Fi networks and their effectiveness in closing the "digital divide"<br />
+• Working on identifying potential clients and/or collaborators in need of wi-fi data<br />
 
 Website: http://wifindproject.com/ <br />
 App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 
-# Collected Wifi Access Points - MAP
+# Collected Wi-Fi Access Points - MAP
 ![Alt text](housing_wifi.png "Optional Title")
 
-# Wifi Density
-Wifi Density for Selected Housing Projects (counts)
+# Wi-Fi Density
+Wi-Fi Density for Selected Housing Projects (counts)
 
 |Housing Project  |    unique ssid |
 |----|----|
@@ -26,7 +26,7 @@ Wifi Density for Selected Housing Projects (counts)
 |TOMPKINS          |   314|
 
 # Non-open Networks 
-Median Wifi Signal Strength Levels by Selected Housing Projects<br />
+Median Wi-Fi Signal Strength Levels by Selected Housing Projects<br />
 Signal strength recorded in decibel-milliwatts (dBm)
 
 |Housing Project  |   level|
@@ -37,7 +37,7 @@ Signal strength recorded in decibel-milliwatts (dBm)
 |TOMPKINS         |   -75|
 
 # Open Networks 
-Median Wifi Signal Strength Levels by Selected Housing Projects<br />
+Median Wi-Fi Signal Strength Levels by Selected Housing Projects<br />
 Signal strength recorded in decibel-milliwatts (dBm)<br />
 No (known) open networks found
 
