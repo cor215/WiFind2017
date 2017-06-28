@@ -1,4 +1,4 @@
-# WiFind2017: Analysing Wi-Fi Strength Signals Across NYC 
+# WiFind2017: Analyzing Wi-Fi Strength Signals Across NYC 
 2017 Capstone Project<br />
 Author_: Christian Rosado
 
