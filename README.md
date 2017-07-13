@@ -62,6 +62,7 @@ data source: http://maps.nyc.gov/census/
 
 # Descriptive Statistics for Brooklyn Census Tracts - 2010
 	||population|	population_density|	household_density|	median_household_income|
+	|----|----|
 |count|	132|	132|	132|	132|
 |mean|	3538.19697|	2.08794|	0.770941|	49702.77273|
 |std|	1160.447942|	0.76808|	0.27314|	21874.45133|
