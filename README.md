@@ -61,7 +61,8 @@ data source: http://maps.nyc.gov/census/
 |TOMPKINS         |    $21,554|
 
 # Descriptive Statistics for Brooklyn Census Tracts - 2010
-||population|	population_density|	household_density|	median_household_income|
+MEGA_DATASET_2010
+||population|	population density|	household density|	median household income|
 |----|----|----|----|----|
 |count|	132|	132|	132|	132|
 |mean|	3538.19697|	2.08794|	0.770941|	49702.77273|
