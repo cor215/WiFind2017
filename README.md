@@ -59,3 +59,14 @@ data source: http://maps.nyc.gov/census/
 |ROOSEVELT I      |    $26,081|
 |SUMNER           |    $21,897|
 |TOMPKINS         |    $21,554|
+
+# Descriptive Statistics for Brooklyn Census Tracts - 2010
+	||population|	population_density|	household_density|	median_household_income|
+|count|	132|	132|	132|	132|
+|mean|	3538.19697|	2.08794|	0.770941|	49702.77273|
+|std|	1160.447942|	0.76808|	0.27314|	21874.45133|
+|min|	0| 0|	0|	0|
+|25%|	2794.5|	1.593325|	0.603182|	35960.5|
+|50%|	3595.5|	2.072098|	0.783504|	43645|
+|75%|	4195.25|	2.439957|	0.929398|	60157.75|
+|max|	7024|	5.32543|	2.084288|	113924|
