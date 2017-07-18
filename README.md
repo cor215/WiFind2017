@@ -15,6 +15,9 @@ App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 # Open Networks in Public vs. None-public Residential Areas
 ![Alt text](normalized_wifi_counts_by_area.png "Optional Title")
 
+# Normalized Networks vs. Median Household Income
+![Alt text](scatter_plots.png "Optional Title")
+
 # Collected Wi-Fi Access Points - MAP
 ![Alt text](housing_wifi.png "Optional Title")
 
