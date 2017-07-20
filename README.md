@@ -18,6 +18,20 @@ App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 # Normalized Networks vs. Median Household Income
 ![Alt text](scatter_plots_xy.png "Optional Title")
 
+# Descriptive Statistics for Brooklyn Census Tracts - 2010
+<i>MEGA_DATASET_2010</i>
+
+||population|	population density|	household density|	median household income|
+|----|----|----|----|----|
+|count|	760|	760|	760|	760|
+|mean|	3295.657895|	1.738692|	0.634674|	48122.36842|
+|std|	1395.984746|	0.863948|	0.329827|	21700.14636|
+|min|	0|	0|	0|	0|
+|25%|	2298.75|	1.182242|	0.412703|	34108|
+|50%|	3219|	1.68964|	0.611937|	43521|
+|75%|	4136.5|	2.197788|	0.812231|	59650|
+|max|	8938|	5.625838|	2.356579|	163147|
+
 # Collected Wi-Fi Access Points - MAP
 ![Alt text](housing_wifi.png "Optional Title")
 
@@ -65,17 +79,3 @@ data source: http://maps.nyc.gov/census/
 |ROOSEVELT I      |    $26,081|
 |SUMNER           |    $21,897|
 |TOMPKINS         |    $21,554|
-
-# Descriptive Statistics for Brooklyn Census Tracts - 2010
-<i>MEGA_DATASET_2010</i>
-
-||population|	population density|	household density|	median household income|
-|----|----|----|----|----|
-|count|	760|	760|	760|	760|
-|mean|	3295.657895|	1.738692|	0.634674|	48122.36842|
-|std|	1395.984746|	0.863948|	0.329827|	21700.14636|
-|min|	0|	0|	0|	0|
-|25%|	2298.75|	1.182242|	0.412703|	34108|
-|50%|	3219|	1.68964|	0.611937|	43521|
-|75%|	4136.5|	2.197788|	0.812231|	59650|
-|max|	8938|	5.625838|	2.356579|	163147|
