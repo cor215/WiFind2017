@@ -12,11 +12,11 @@ WiFind is a framework for data collection of Wi-Fi networks and their signal str
 Website: http://wifindproject.com/ <br />
 App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 
-# Open Networks in Public vs. Non-public Residential Areas
-![Alt text](normalized_wifi_counts_by_area.png "Optional Title")
-
 # Normalized Networks vs. Median Household Income
 ![Alt text](scatter_plots_xy.png "Optional Title")
+
+# Open Networks in Public vs. Non-public Residential Areas
+![Alt text](normalized_wifi_counts_by_area.png "Optional Title")
 
 # Descriptive Statistics for Brooklyn Census Tracts - 2010
 <i>MEGA_DATASET_2010</i>
