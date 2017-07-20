@@ -16,7 +16,7 @@ App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 ![Alt text](normalized_wifi_counts_by_area.png "Optional Title")
 
 # Normalized Networks vs. Median Household Income
-![Alt text](scatter_plos.png "Optional Title")
+![Alt text](scatter_plots.png "Optional Title")
 
 # Collected Wi-Fi Access Points - MAP
 ![Alt text](housing_wifi.png "Optional Title")
