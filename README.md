@@ -12,10 +12,10 @@ WiFind is a framework for data collection of Wi-Fi networks and their signal str
 Website: http://wifindproject.com/ <br />
 App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 
-# Normalized Networks vs. Median Household Income
+# Median Household Income vs. Normalized Networks 
 ![Alt text](scatter_plots_bg.png "Optional Title")
 
-# Open Networks vs. Non-open Networks by Census Block Group in our Analysis
+# Open and Non-open Networks by Census Block Group
 ![Alt text](bar_chart_bg.png "Optional Title")
 
 # Descriptive Statistics for Brooklyn Census Tracts - 2010
