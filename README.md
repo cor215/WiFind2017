@@ -13,7 +13,7 @@ Website: http://wifindproject.com/ <br />
 App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 
 # Median Household Income vs. Normalized Network Counts
-![Alt text](scatter_plots_bg.png "Optional Title")
+![Alt text](scatter_plots_bg_r.png "Optional Title")
 
 # Open and Non-open Networks by Census Block Group
 ![Alt text](bar_chart_bg.png "Optional Title")
