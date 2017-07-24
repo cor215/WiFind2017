@@ -116,5 +116,5 @@ Is there a difference in wifi density between public housing projects (low incom
 |Mann-Whitney test |Open Networks |raw normalized counts |True |88.0 |0.0525 |
 |Mann-Whitney test |Private |raw normalized counts |True |93.0 |0.0751|
 
-As you can see above, the only data subset with a significant difference was the raw normalized counts for open networks. With the Mann-Whitney test we can conclude that the wifi density of open networks between census block groups containing low-income housing projects and the wifi density of open networks in census block groups not containing low-income housing projects are statistically different with an alpha value threshold of 0.05.
+As you can see above, the only data subset with a significant difference was the raw normalized counts for open networks. With the Mann-Whitney test we can conclude that the wifi density of open networks between census block groups containing low-income housing projects and the wifi density of open networks in census block groups lacking low-income housing projects are statistically different with an alpha value threshold of 0.05.
 
