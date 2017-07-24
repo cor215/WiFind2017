@@ -24,7 +24,7 @@ App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 # Regression Anlysis for Open and Private Networks
 ![Alt text](scatter_w_regression.png "Optional Title")
 
-Above you'll find two plots displaying wifi density (controlled by population) among low-income housing projects and nonpublic residential areas for both open and private wifi networks. The first plot shows a moderate positive correlation between median household income and wifi density for open networks among low-income housing projects and nonpublic residential areas. The p-value for this correlation is statistically significant with a 0.05 alpha value threshold. 
+Above you'll find two plots displaying wifi density (controlled by population) among low-income housing projects and non-public residential areas for both open and private wifi networks. The first plot shows a moderate positive correlation between median household income and wifi density for open networks among low-income housing projects and non-public residential areas. The p-value for this correlation is statistically significant with a 0.05 alpha value threshold. 
 
 The second plot shows a weak to moderate positive correlation between median household income and wifi density for non-open networks among low-income housing projects and nonpublic residential areas. The p-value for this correlation is also statistically significant with a 0.05 alpha value threshold. 
 
