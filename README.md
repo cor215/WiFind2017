@@ -111,7 +111,7 @@ Is there a difference in wifi density between public housing projects (low incom
 |t-test |Private Networks |log normalized counts |False |-1.1432 |0.2616 |
 |t-test |Open Networks |log normalized counts |True |-1.3306 |0.1930 |
 |t-test |Private Networks |log normalized counts |True |-1.0851 |0.2862 |
-|Mann-Whitney test |Open Networks |raw normalized counts |False |85.0 |<b>0.0417</b> |
+|Mann-Whitney test |Open Networks |raw normalized counts |False |85.0 |<b><mark>0.0417</mark></b> |
 |Mann-Whitney test |Private Networks |raw normalized counts |False |110.0 |0.2062 |
 |Mann-Whitney test |Open Networks |raw normalized counts |True |88.0 |0.0525 |
 |Mann-Whitney test |Private |raw normalized counts |True |93.0 |0.0751|
