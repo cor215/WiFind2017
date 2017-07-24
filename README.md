@@ -13,10 +13,19 @@ Website: http://wifindproject.com/ <br />
 App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 
 # Median Household Income vs. Normalized Network Counts
-![Alt text](scatter_plots_bg_r.png "Optional Title")
+![Alt text](scatter_non_log.png "Optional Title")
 
-# Open and Non-open Networks by Census Block Group
+# Open and Private Networks by Census Block Group
 ![Alt text](bar_chart_bg.png "Optional Title")
+
+# Open and Private Networks by Target Study Area
+![Alt text](barplots_area.png "Optional Title")
+
+# Regression Anlysis for Open and Private Networks
+![Alt text](scatter_w_regression.png "Optional Title")
+
+# Distributions for Open and Private Networks by Area on Log Scales
+![Alt text](boxplot.png "Optional Title")
 
 # Descriptive Statistics for Brooklyn Census Tracts - 2010
 <i>MEGA_DATASET_2010</i>
