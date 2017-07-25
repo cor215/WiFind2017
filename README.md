@@ -26,7 +26,7 @@ App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
 
 Above you'll find two plots displaying wifi density (controlled by population) among low-income housing projects and non-public residential areas for both open and private wifi networks. The first plot shows a moderate positive correlation between median household income and wifi density for open networks among low-income housing projects and non-public residential areas. The p-value for this correlation is statistically significant with a 0.05 alpha value threshold. 
 
-The second plot shows a weak to moderate positive correlation between median household income and wifi density for non-open networks among low-income housing projects and nonpublic residential areas. The p-value for this correlation is also statistically significant with a 0.05 alpha value threshold. 
+The second plot shows a weak to moderate positive correlation between median household income and wifi density for private networks among low-income housing projects and non-public residential areas. The p-value for this correlation is also statistically significant with a 0.05 alpha value threshold. 
 
 We can interpret these moderate relationships as median household income increases, wfi density also increases. However, there can be other influences in play such as commercial activity and external factors we don’t have data to account for. More data collection is recommended. 
 
@@ -97,12 +97,12 @@ data source: http://maps.nyc.gov/census/
 |TOMPKINS         |    $21,554|
 
 # Statistical Test Results
-To test our initial research question, two statistical test were performed on four groups of data: 1) raw normalized counts, 2) log transformed normalized counts, 3) raw normalized counts factoring for building height, and 4) log transformed normalized counts factoring for building height.<br />
+To test our initial research question, two statistical test were performed on four subgroups of our data: 1) raw normalized wifi counts, 2) log transformed normalized wifi counts, 3) raw normalized wifi counts factoring for building height, and 4) log transformed normalized wifi counts factoring for building height.<br />
 
-A t-test was performed on the log transformed normalized counts. Raw counts were log transformed to meet the t-test assumptions of normality. A Mann-Whitney test was performed on the raw normalized counts to account for the non-normal distribution of our raw normalized counts. All test were performed for both open and private networks in low-income census block groups vs. non-low-income census block groups.<br />
+A t-test was performed on the log transformed normalized wifi counts. Raw normalized wifi counts were log transformed to meet the t-test's assumption of normality. A Mann-Whitney test was performed on the raw normalized wifi counts to account for the non-normal distribution of our raw normalized wifi counts. All test were performed for both open and private networks in low-income census block groups vs. non-low-income census block groups.<br />
 
 ## Research Question
-Is there a difference in wifi density between public housing projects (low income census block groups) and their adjacent non-public residential neighborhoods (non-low-income census block groups)?
+Is there a difference in wifi density between public housing projects (low-income census block groups) and their adjacent non-public residential neighborhoods (non-low-income census block groups)?
 
 ### Results:
 |Test |Wifi Status| Data Subset |Factoring for Building Height |Statistic |p-value |
@@ -116,5 +116,5 @@ Is there a difference in wifi density between public housing projects (low incom
 |Mann-Whitney test |Open Networks |raw normalized counts |True |88.0 |0.0525 |
 |Mann-Whitney test |Private |raw normalized counts |True |93.0 |0.0751|
 
-As you can see above, the only data subset with a significant difference was the raw normalized counts for open networks. With the Mann-Whitney test we can conclude that the wifi density of open networks between census block groups containing low-income housing projects and the wifi density of open networks in census block groups lacking low-income housing projects are statistically different with an alpha value threshold of 0.05.
+As you can see above, the only data subset with a significant difference was the raw normalized wifi counts for open networks. With the Mann-Whitney test, we can conclude that the wifi density of open networks between census block groups containing low-income housing projects and the wifi density of open networks in census block groups lacking low-income housing projects are statistically different with an alpha value threshold of 0.05.
 
