@@ -4,10 +4,10 @@ Author_: Christian Rosado
 
 Team Member, Capstone Project, Center for Urban Science and Progress, NYU <br />
 WiFind is a framework for data collection of Wi-Fi networks and their signal strengths:<br />
-• Currently collecting Wi-Fi data in NYC low-income housing projects <br />
-• Analyzing data collected with other geo-located datasets to detect patterns and assess Wi-Fi accessibility<br />
-• Researching open Wi-Fi networks and their effectiveness in closing the "digital divide"<br />
-• Working on identifying potential clients and/or collaborators in need of wi-fi data<br />
+• Collected Wi-Fi data in NYC low-income housing projects <br />
+• Analyzed data collected with other geo-located datasets to detect patterns and assess Wi-Fi accessibility<br />
+• Researched open Wi-Fi networks and their effectiveness in closing the "digital divide"<br />
+• Worked on identifying potential clients and/or collaborators in need of wi-fi data<br />
 
 Website: http://wifindproject.com/ <br />
 App: https://play.google.com/store/apps/details?id=com.wifindproject.app&hl=en
