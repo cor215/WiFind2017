@@ -1,5 +1,4 @@
 # WiFind2017: Analyzing Wi-Fi Strength Signals Across NYC 
-2017 Capstone Project<br />
 Author_: Christian Rosado
 
 Team Member, Capstone Project, Center for Urban Science and Progress, NYU <br />
