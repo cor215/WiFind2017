@@ -1,5 +1,5 @@
 # WiFind: Analyzing Wi-Fi Strength Signals Across NYC 
-Author_: Christian Rosado
+Author_: Christian Rosado 
 
 Team Member, Capstone Project, Center for Urban Science and Progress, NYU <br />
 WiFind is a framework for data collection of Wi-Fi networks and their signal strengths:<br />
